@@ -18,4 +18,6 @@ part2.processSquadMove('string of directions')
 
 respectively.
 
+In addition, I have created some basic tests using Mocha and Chai. These can be run by running `mocha tests/test.js` from the command line. Thanks!
+
 Thanks!
