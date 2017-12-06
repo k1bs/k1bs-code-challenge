@@ -6,12 +6,14 @@ To use you will need to do
 
 ```javascript
 const part1 = new PizzaSingle()
+part1.processMove('string of directions')
 ```
 
 and
 
 ```javascript
 const part2 = new PizzaSquad()
+part2.processSquadMove('string of directions')
 ```
 
 respectively.
