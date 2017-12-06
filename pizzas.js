@@ -87,3 +87,8 @@ class PizzaSquad extends PizzaSingle {
     return this.positionTracker.length
   }
 }
+
+module.exports = {
+  PizzaSquad,
+  PizzaSingle
+}

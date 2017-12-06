@@ -1,0 +1,23 @@
+{
+  "name": "k1bs-code-challenge",
+  "version": "1.0.0",
+  "description": "pizzas.js contains my solution for the code challenge. The code is organized into ES6 classes. The class for part 2 extends the class from part one.",
+  "main": "pizzas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1bs/k1bs-code-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k1bs/k1bs-code-challenge/issues"
+  },
+  "homepage": "https://github.com/k1bs/k1bs-code-challenge#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
